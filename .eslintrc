@@ -10,7 +10,7 @@
       "node": {
         "extensions": [
           ".js",
-          ".jsx"
+          ".css"
         ]
       }
     }
